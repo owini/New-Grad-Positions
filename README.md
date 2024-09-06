@@ -2,7 +2,7 @@
 
 Use this repo to share and keep track of entry-level software, tech, CS, PM, quant jobs for 2024 & 2025 new graduates.
 
-:warning: Please note that this repository is exclusively for roles in the United States, Canada, or Remote positions :earth_americas:
+:warning: Please note that this repository is exclusively for roles in the United States, Canada, United Kingdom or Remote positions :earth_americas:
 
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
